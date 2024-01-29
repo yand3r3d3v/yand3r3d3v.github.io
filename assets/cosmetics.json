@@ -15,11 +15,6 @@
          "customNames":[
             
          ]
-      },
-      "pet_dragon":{
-         "enabled":true,
-         "scale":0.2,
-         "texture":"frigus"
       }
    }
 }
