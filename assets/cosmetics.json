@@ -3,7 +3,7 @@
       "dragon_wings":{
          "enabled":true,
          "scale":0.017,
-         "texture":"Kiwi_wings",
+         "texture":"classic",
          "color":{
             "r":1,
             "g":1,
